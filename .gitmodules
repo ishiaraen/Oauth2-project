@@ -1,0 +1,9 @@
+[submodule "oauth2-odoo-module"]
+	path = oauth2-odoo-module
+	url = git@github-ishiaraen:ishiaraen/oauth2-odoo-module.git
+[submodule "oauth2-frontend"]
+	path = oauth2-frontend
+	url = git@github-ishiaraen:ishiaraen/oauth2-frontend.git
+[submodule "oauth2-backend"]
+	path = oauth2-backend
+	url = git@github-ishiaraen:ishiaraen/oauth2-backend.git
